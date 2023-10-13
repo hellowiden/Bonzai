@@ -525,6 +525,9 @@ a {
     .contact {
         grid-template-columns: 1fr;
     }
+    .contact {
+        margin-top: 350px;
+    }
 }
 
 /* Footer */
@@ -614,5 +617,8 @@ a {
     .room {
         flex: 0 0 100%;
         margin-right: 0;
+    }
+    .rooms {
+        margin-top: 350px;
     }
 }
